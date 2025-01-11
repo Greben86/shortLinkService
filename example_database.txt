@@ -1,0 +1,2 @@
+mephi.exercise.entity.User -3115729263766508225;56facaad-acb4-4d5f-b400-dbb9cb12dad5;Vi
+mephi.exercise.entity.Link -3818234891051946383;zhmumhdmzr;ya.ru;56facaad-acb4-4d5f-b400-dbb9cb12dad5;;16
